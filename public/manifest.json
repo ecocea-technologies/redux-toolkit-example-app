@@ -1,0 +1,9 @@
+{
+  "short_name": "redux-toolkit-app",
+  "name": "redux toolkit app",
+  "icons": [],
+  "start_url": "https://ecocea-technologies.github.io/redux-toolkit-example-app",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
