@@ -10,7 +10,7 @@ export default function App() {
 	return (
 		<gs.AppContainer>
 			<gs.Main>
-				<BrowserRouter>
+				<BrowserRouter basename="/redux-toolkit-example-app">
 					<Routes>
 						<Route path="/" element={<Catalog />} />
 						<Route path="/:id" element={<Product />} />
