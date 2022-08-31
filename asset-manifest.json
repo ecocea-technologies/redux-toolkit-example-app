@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/redux-toolkit-example-app/static/js/main.11d7c61a.js",
+    "main.js": "/redux-toolkit-example-app/static/js/main.eee0ad75.js",
     "index.html": "/redux-toolkit-example-app/index.html",
-    "main.11d7c61a.js.map": "/redux-toolkit-example-app/static/js/main.11d7c61a.js.map"
+    "main.eee0ad75.js.map": "/redux-toolkit-example-app/static/js/main.eee0ad75.js.map"
   },
   "entrypoints": [
-    "static/js/main.11d7c61a.js"
+    "static/js/main.eee0ad75.js"
   ]
 }
