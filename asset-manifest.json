@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/redux-toolkit-example-app/static/js/main.eee0ad75.js",
+    "index.html": "/redux-toolkit-example-app/index.html",
+    "main.eee0ad75.js.map": "/redux-toolkit-example-app/static/js/main.eee0ad75.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eee0ad75.js"
+  ]
+}
